@@ -1,0 +1,9 @@
+.link {
+    text-decoration: none;
+    color: white!important;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: burlywood!important;
+}
